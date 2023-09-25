@@ -1,5 +1,5 @@
 ## This is the Cold War Weapons Add-On Pack for Multiple items_game.txt Includer.
-All weapons here are replacement for default CS:GO weapons and mostly have a tactical reload, as well as not having attachments.
+All weapons here are replacement for default CS:GO weapons and mostly have a tactical reload, as well as not having attachments. Minimised VScripts usage to make the mod more client-sided, so only one draw animation is present.
 ## Credits:
 - Viper, CrazySlavModder - Some textures and materials;
 - Lutzz - CoD:MW to CS:GO arms rig;
