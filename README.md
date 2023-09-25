@@ -3,7 +3,7 @@ All weapons here are replacement for default CS:GO weapons and mostly have a tac
 ## Credits:
 - Viper, CrazySlavModder - Some textures and materials;
 - Lutzz - CoD:MW to CS:GO arms rig;
-- multinet - Extracting sounds, textures and sounds from COD BOCW;
+- multinetе - Extracting sounds, textures and sounds from COD BOCW;
 - Stomatolog - Teaching me how to work with Maya and Lutzz's rig;
 - ZaihnY - Porting models, textures, sounds, making most scripts, icons and other things in this pack;
 - Scobalula - Greyhound;
